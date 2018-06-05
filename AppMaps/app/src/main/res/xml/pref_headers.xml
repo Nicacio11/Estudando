@@ -1,0 +1,25 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- These settings headers are only used on tablets. -->
+
+ <header
+    android:fragment="testtcc.henriqueethiago.com.appmaps.FerramentasAct$NotificationPreferenceFragment"
+    android:icon="@drawable/ic_notifications_black_24dp"
+    android:summary="@string/sumario_notifica"
+    android:title="@string/pref_header_notifications" />
+
+
+ <header
+    android:fragment="testtcc.henriqueethiago.com.appmaps.FerramentasAct$DataSyncPreferenceFragment"
+    android:icon="@drawable/ic_sync_black_24dp"
+    android:title="@string/pref_header_data_sync" />
+
+
+ <header
+        android:fragment="testtcc.henriqueethiago.com.appmaps.FerramentasAct$GeneralPreferenceFragment"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:summary="@string/sumario_sobre"
+        android:title="@string/pref_header_general" />
+
+
+</preference-headers>
