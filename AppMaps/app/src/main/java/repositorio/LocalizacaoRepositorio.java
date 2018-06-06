@@ -61,6 +61,7 @@ public class LocalizacaoRepositorio {
                 lista.add(localizacao);
                 cursor.moveToNext();
             }
+            cursor.moveToFirst();
         }catch (Exception e){
             e.printStackTrace();
         }

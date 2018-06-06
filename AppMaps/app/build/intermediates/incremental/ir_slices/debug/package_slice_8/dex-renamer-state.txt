@@ -1,4 +1,4 @@
-#Tue Jun 05 13:42:04 BRT 2018
+#Wed Jun 06 09:57:25 BRT 2018
 base.0=C\:\\Users\\vitor.santos\\Downloads\\AppMaps-20180604T155053Z-001\\AppMaps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex

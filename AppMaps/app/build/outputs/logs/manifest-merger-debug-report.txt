@@ -36,6 +36,7 @@ MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\vitor
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\82daeb6a7d81d289ab8a63771dfebcd3\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6e3f10b73dbab33cfe649f9e9c02067d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d355e4b1ca8f0de87e2a24dbeb23fe25\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\58cf219cf4d01ada932262412716dc37\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9758ac653b8d839441ae19a767da1e06\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a3ec2fa57e7aef90c0cef0e5af952c48\AndroidManifest.xml:17:1-31:12
@@ -148,6 +149,8 @@ MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vitor
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6e3f10b73dbab33cfe649f9e9c02067d\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d355e4b1ca8f0de87e2a24dbeb23fe25\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d355e4b1ca8f0de87e2a24dbeb23fe25\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:7:5-11:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\58cf219cf4d01ada932262412716dc37\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\58cf219cf4d01ada932262412716dc37\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9758ac653b8d839441ae19a767da1e06\AndroidManifest.xml:25:5-29:19
@@ -178,6 +181,8 @@ meta-data#com.google.android.gms.version
 ADDED from C:\Users\vitor.santos\Downloads\AppMaps-20180604T155053Z-001\AppMaps\app\src\main\AndroidManifest.xml:17:9-18:68
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\53b4337bcc37bd6f6996be871c7eb355\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\53b4337bcc37bd6f6996be871c7eb355\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from C:\Users\vitor.santos\Downloads\AppMaps-20180604T155053Z-001\AppMaps\app\src\main\AndroidManifest.xml:18:13-66
 	android:name
@@ -286,6 +291,8 @@ MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vitor
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6e3f10b73dbab33cfe649f9e9c02067d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d355e4b1ca8f0de87e2a24dbeb23fe25\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d355e4b1ca8f0de87e2a24dbeb23fe25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.4.aar\581629c9a91f41e1042ad127c05ad3c1\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\58cf219cf4d01ada932262412716dc37\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\58cf219cf4d01ada932262412716dc37\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vitor.santos\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9758ac653b8d839441ae19a767da1e06\AndroidManifest.xml:21:5-23:60

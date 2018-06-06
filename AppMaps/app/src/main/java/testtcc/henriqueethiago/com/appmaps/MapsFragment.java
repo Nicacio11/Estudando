@@ -63,6 +63,8 @@ public class    MapsFragment extends SupportMapFragment implements GoogleApiClie
         Location location = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
 
         if(location != null){
+            Toast.makeText(getContext(), "Lat"+ location.getLatitude(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(getContext(), "Lat"+ location.getLongitude(), Toast.LENGTH_LONG).show();
             Log.i("LOG", "Latitude: " + location.getLatitude());
             Log.i("LOG", "Longitude: " + location.getLongitude());
 
